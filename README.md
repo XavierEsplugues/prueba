@@ -1,2 +1,2 @@
 # prueba
-repositorio de prueba
+repositorio de prueba para el modulo LMSGI
